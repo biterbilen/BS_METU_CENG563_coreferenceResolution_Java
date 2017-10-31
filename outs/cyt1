@@ -1,0 +1,49 @@
+
+The Abstract:
+--------------
+The mitogen-activated protein kinase (MAP kinase) family of cytoplasmic
+serine/threonine protein kinases is activated by a wide range of extracellular
+stimuli. In this review we focus on the accumulating evidence that proteins
+encoded by proto-oncogenes and oncogenes are either involved in the regulation
+of the MAP kinase pathway or are its targets.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ The mitogen-activated protein -> kinase
+
+ this review -> extracellular
+ we -> extracellular
+ the accumulating evidence -> extracellular
+ the regulation -> kinase
+ the MAP -> kinase
+ its -> pathway
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - kinase
+linked the following anaphors:
+ The mitogen-activated protein
+ the regulation
+ the MAP
+
+Antecedent - extracellular
+linked the following anaphors:
+ this review
+ we
+ the accumulating evidence
+
+Antecedent - extracellular
+linked the following anaphors:
+ we
+ the accumulating evidence
+
+Antecedent - kinase
+linked the following anaphors:
+ the regulation
+ the MAP
+

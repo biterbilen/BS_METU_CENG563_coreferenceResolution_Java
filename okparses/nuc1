@@ -1,0 +1,257 @@
+(S
+  (NP (DT The) (NNP TP73) (NN gene))
+  (VP (VBZ encodes)
+    (NP
+      (NP (DT a) (JJ nuclear) (NN protein))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ has)
+            (NP
+              (NP (JJ high) (NN homology))
+              (PP (IN with)
+                (NP (NNP TP53)))))))))
+  (. .))
+(S
+  (NP (NNP TP73))
+  (VP (VBZ is)
+    (ADVP (RB rarely))
+    (VP (VBN mutated)
+      (PP (IN in)
+        (NP (JJ human) (NN cancer)))))
+  (. .))
+(S
+  (NP
+    (NP (DT The) (NN presence))
+    (PP (IN of)
+      (NP
+        (NP (DT a) (JJ 1-kb) (JJ regulatory) (NN fragment))
+        (PP (IN within)
+          (NP
+            (NP (DT the) (JJ first) (NN intron))
+            (PP (IN of)
+              (NP (NNP TP73))))))))
+  (VP (VBD was)
+    (ADVP (RB recently))
+    (VP (VBN reported)))
+  (. .))
+(S
+  (NP (DT This) (NN fragment))
+  (VP (VBZ exerts)
+    (NP (JJR silencer) (NN activity))
+    (PP (IN on)
+      (NP
+        (NP (NNP TP73))
+        (VP (VBN mediated)
+          (PP (IN by)
+            (NP (NNP ZEB)))))))
+  (. .))
+(S
+  (NP (PRP We))
+  (VP (VBD searched)
+    (PP (IN for)
+      (NP (JJ possible) (NNS mutations)))
+    (PP
+      (PP (IN in)
+        (NP
+          (NP (DT this) (JJ negative) (JJ regulatory) (NN region))
+          (PP (IN in)
+            (NP
+              (NP (CD 45) (NN colorectal))
+              (CC and)
+              (NP (CD 43) (NN breast) (NN cancer) (NNS patients))))))
+      (CC and)
+      (PP (IN in)
+        (NP (CD 34) (JJ healthy) (NNS donors)))))
+  (. .))
+(S
+  (S
+    (NP (DT The) (NN study))
+    (VP (VBD was)
+      (VP (VBN carried)
+        (PP (IN out)
+          (S
+            (VP (VBG using)
+              (NP (DT the) (NNP SSCP) (NN method))))))))
+  (, ,)
+  (CC and)
+  (S
+    (NP (DT the) (JJ allelic) (NNS variants))
+    (VP (VBD detected)
+      (SBAR
+        (S
+          (VP (VBD were)
+            (VP (VBN sequenced)))))))
+  (. .))
+(S
+  (S
+    (NP
+      (NP (DT The) (NN expression))
+      (PP (IN of)
+        (NP (NNP TP73))))
+    (VP (VBD was)
+      (VP (VBN analyzed)
+        (PP (IN by)
+          (NP (JJ quantitative) (NN RT-PCR))))))
+  (, ,)
+  (CC and)
+  (S
+    (NP
+      (NP (NN loss))
+      (PP (IN of)
+        (NP
+          (NP (NN heterozygosity))
+          (PRN (-LRB- -LRB-) (NNP LOH) (-RRB- -RRB-)))))
+    (VP (VBD was)
+      (VP (VBN assessed)
+        (PP (IN by)
+          (NP (JJ microsatellite) (NN study))))))
+  (. .))
+(S
+  (PP (IN In)
+    (NP (JJ several) (NNS samples)))
+  (, ,)
+  (NP (PRP we))
+  (VP (VBD identified)
+    (NP
+      (NP (DT an) (JJ allele) (NN variant))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ corresponds)
+            (PP (TO to)
+              (NP
+                (NP (DT a) (NN deletion))
+                (PP (IN of)
+                  (NP (CD 73) (NN bp)))))))))
+    (PP (IN in)
+      (NP
+        (NP (NN tumor) (NNS tissues))
+        (CC and)
+        (NP (JJ normal) (NNS counterparts))))
+    (, ,)
+    (ADJP (JJ localized)
+      (PP (IN between)
+        (NP (CD -489)
+          (CC and)
+          (CD -417))))
+    (PP (IN from)
+      (NP
+        (NP (DT the) (NNP ATG) (NN start) (NN site))
+        (PP (IN of)
+          (NP (NN exon) (CD 2))))))
+  (. .))
+(S
+  (PP (IN Among)
+    (NP (DT the) (CD 88) (NN tumor) (NNS samples)))
+  (, ,)
+  (NP
+    (NP (CD 35))
+    (PRN (-LRB- -LRB-)
+      (NP (CD 40) (NN %))
+      (-RRB- -RRB-)))
+  (VP (VBD showed)
+    (NP
+      (QP (IN at) (JJS least) (CD 1))
+      (NN allele))
+    (PP (IN with)
+      (NP (DT the) (JJ cited) (NN deletion)))
+    (, ,)
+    (PP (FW versus)
+      (NP
+        (NP (CD 7))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (DT the) (CD 34))
+              (PRN (-LRB- -LRB-)
+                (NP (CD 21) (NN %))
+                (-RRB- -RRB-))
+              (NP (JJ healthy) (NNS donors)))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (QP ($ P) (CD =) (CD 0.045)))
+              (-RRB- -RRB-)))))))
+  (. .))
+(S
+  (SBAR
+    (WHADVP (WRB When))
+    (S
+      (NP (PRP we))
+      (VP (VBD classified)
+        (NP (DT the) (NNS patients))
+        (PP (VBG according)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN number))
+              (PP (IN of)
+                (NP
+                  (NP (NNS variations))
+                  (PP (IN into)
+                    (NP (NNS homozygous)
+                      (CC or)
+                      (NN heterozygous) (NNS groups)))))))))))
+  (, ,)
+  (NP (DT the) (NN significance))
+  (VP (VBD was)
+    (ADJP
+      (ADJP (JJR clearer))
+      (PRN (-LRB- -LRB-)
+        (NP ($ P) (CD =) (CD 0.03))
+        (-RRB- -RRB-))))
+  (. .))
+(S
+  (NP (DT No) (NNP LOH))
+  (VP (VBD was)
+    (VP (VBN detected)
+      (PP (IN in)
+        (NP (DT the) (JJ heterozygous) (NNS cases)))))
+  (. .))
+(S
+  (NP (EX There))
+  (VP (VBD was)
+    (NP
+      (NP
+        (NP (DT a) (JJ positive) (JJ quantitative) (NN correlation))
+        (PP (IN between)
+          (NP
+            (NP (DT the) (NN expression))
+            (PP (IN of)
+              (NP (NNP TP73))))))
+      (CC and)
+      (NP
+        (NP (DT the) (NN presence))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ allelic) (NN variant))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (QP ($ P) (CD =) (CD 0.029)))
+              (-RRB- -RRB-)))))))
+  (. .))
+(S
+  (NP (DT These) (NNS data))
+  (VP (VBP suggest)
+    (SBAR
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (JJ allelic) (NN variant))
+          (VP (VBZ is)
+            (ADJP (JJ common)
+              (PP (IN in)
+                (NP (NN breast)
+                  (CC and)
+                  (NN colorectal) (NNS cancers)))))))
+      (CC and)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD could)
+            (VP (VB alter)
+              (NP
+                (NP (DT the) (NN expression))
+                (PP (IN of)
+                  (NP (DT the) (NNP TP73) (NN gene))))
+              (PP (IN with)
+                (NP (DT an) (JJ additive) (NN effect)))))))))
+  (. .))

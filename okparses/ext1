@@ -1,0 +1,196 @@
+(S
+  (NP (JJ Alzheimers) (NN disease))
+  (VP (VBZ is)
+    (NP
+      (NP (DT a) (JJ progressive) (NN neurodegenerative) (NN disorder))
+      (VP (VBN characterized)
+        (PP (IN by)
+          (NP
+            (NP (NN extracellular) (NN deposition))
+            (PP (IN of) (: -)
+              (NP
+                (NP (JJ amyloid)
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP A))
+                    (-RRB- -RRB-))
+                  (NN peptide))
+                (VP (VBG containing)
+                  (NP (JJ neuritic) (NNS plaques))))))))))
+  (. .))
+(S
+  (NP (DT A) (NNS peptides))
+  (VP (VBP are)
+    (ADVP (RB proteolytically))
+    (VP (VBN derived)
+      (PP (IN from)
+        (NP
+          (NP (DT the)
+            (ADJP (NN membrane) (VBN bound))
+            (NN amyloid) (NN precursor) (NN protein))
+          (PRN (-LRB- -LRB-) (NNP APP) (-RRB- -RRB-))))))
+  (. .))
+(S
+  (SBAR (IN Although)
+    (S
+      (NP
+        (NP (DT the) (NN function))
+        (PP (IN of)
+          (NP (NNP APP))))
+      (VP (VBZ is) (RB not)
+        (ADJP (RB entirely) (JJ clear)))))
+  (, ,)
+  (NP (JJ previous) (NNS studies))
+  (VP (VBP demonstrate)
+    (NP
+      (NP (DT that) (JJ neuronal) (NNP APP) (NNS co-localizes))
+      (PP (IN with)
+        (NP (CD 1) (NN integrin) (NNS receptors))))
+    (PP (IN at)
+      (S
+        (NP
+          (NP (NNS sites))
+          (PP (IN of)
+            (NP (JJ focal) (NN adhesion))))
+        (VP (VBG suggesting)
+          (SBAR (IN that)
+            (S
+              (NP (NNP APP))
+              (VP (VBZ is)
+                (VP (VBN involved)
+                  (PP (IN in)
+                    (S
+                      (VP (VBG mediating)
+                        (NP (JJ neuronal) (NN process) (NN adhesion)))))))))))))
+  (. .))
+(S
+  (NP (JJ Integrin-dependent) (NN adhesion))
+  (VP (VBZ is)
+    (ADVP (RB also))
+    (NP
+      (NP (DT a) (JJ well-characterized) (NN component))
+      (PP (IN of)
+        (NP (JJ immune) (NN cell) (NN proinflammatory) (NN activation)))))
+  (. .))
+(S
+  (S
+    (VP (VBG Using)
+      (NP
+        (NP (JJ primary) (NN mouse) (NN microglia))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ human) (JJ monocytic) (NN cell) (NN line))
+          (, ,)
+          (NP (NN THP-1))))))
+  (, ,)
+  (NP (PRP we))
+  (VP (VBP have)
+    (VP (VBN begun)
+      (S
+        (VP (VBG investigating)
+          (NP
+            (NP (DT the) (NN role))
+            (PP (IN of)
+              (NP (NNP APP))))
+          (PP (IN in)
+            (NP (JJ integrin-dependent) (NN activation)))))))
+  (. .))
+(S
+  (NP (JJ Co-immunoprecipitation) (NNS studies))
+  (VP (VBP demonstrate)
+    (SBAR (IN that)
+      (S
+        (NP (NNP APP))
+        (VP (VBZ is)
+          (VP (VBN recruited)
+            (PP (IN into)
+              (NP
+                (NP (DT a) (NN multi-receptor))
+                (VP (VBG signaling)
+                  (NP
+                    (NP
+                      (ADJP (JJ complex)
+                        (PP (IN during)
+                          (NP (CD 1))))
+                      (JJ integrin-mediated) (NN adhesion))
+                    (PP (IN of)
+                      (NP (NNS monocytes))))))))))))
+  (. .))
+(S
+  (NP (NNP Stimulation))
+  (VP (VBZ induces)
+    (NP
+      (NP (DT a) (JJ subsequent) (, ,) (JJ specific) (NN recruitment))
+      (PP (IN of)
+        (NP (JJ tyrosine) (JJ phosphorylated) (NNS proteins))))
+    (PP (TO to)
+      (NP
+        (NP (NNP APP))
+        (PP (VBG including)
+          (NP (NNP Lyn)
+            (CC and)
+            (NNP Syk))))))
+  (. .))
+(S
+  (NP
+    (NP (JJ Antibody) (NN cross-linking))
+    (PP (IN of)
+      (NP (NN cell))))
+  (VP (VBP surface)
+    (SBAR
+      (S
+        (NP (NNP APP))
+        (VP
+          (VP (VBZ leads)
+            (PP (TO to)
+              (NP
+                (NP (DT a) (JJ similar) (NN response))
+                (VP (VBN characterized)
+                  (PP (IN by)
+                    (NP
+                      (NP (NN activation)
+                        (CC and)
+                        (NN recruitment))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (NP (JJ tyrosine) (NNS kinases))
+                            (PP (TO to)
+                              (NP (NNP APP))))
+                          (CONJP (RB as) (RB well) (IN as))
+                          (NP
+                            (NP (JJ subsequent) (NN activation))
+                            (PP (IN of)
+                              (NP (NNP MAP) (NNS kinases))))))))))))
+          (CC and)
+          (VP (VBD increased)
+            (NP (JJ proinflammatory) (NN protein) (NNS levels)))))))
+  (. .))
+(S
+  (NP (DT These) (NNS data))
+  (VP (VBP demonstrate)
+    (SBAR (IN that)
+      (S
+        (NP (NNP APP))
+        (VP (MD can)
+          (VP
+            (VP (VB act)
+              (PP (IN as)
+                (NP
+                  (NP (DT a) (JJ proinflammatory) (NN receptor))
+                  (PP (IN in)
+                    (NP (JJ monocytic) (NN lineage) (NNS cells))))))
+            (CC and)
+            (VP (VB provide)
+              (NP (NN insight))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (NN contribution))
+                  (PP (IN of)
+                    (NP (DT this) (NN protein)))))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ inflammatory) (NNS conditions))
+                  (VP (VBN described)
+                    (PP (IN in)
+                      (NP (NNP Alzheimers) (NN disease))))))))))))
+  (. .))

@@ -1,0 +1,6 @@
+Coreference.java: lies the code of the midpsl project.
+okabstracts  	: abstract files container
+okparses	: container for the Stanford lexical parser parse trees of the abstracts
+outs		: container for the outputs of the programs in ok* directories
+readme		: this is it
+make		: compilation and execution realated instructions

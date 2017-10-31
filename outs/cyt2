@@ -1,0 +1,88 @@
+
+The Abstract:
+--------------
+Balbiani rings are exceptionally large puffs on the polytene chromosomes in the
+dipteran Chironomus tentans. These puffs are particularly well suited for
+studies of the structure of active genes and the synthesis and transport of
+specific RNA-protein (RNP) particles. The Balbiani ring RNP particle consists of
+a ribbon bent into a ring-like structure, the ribbon being built from a tightly
+folded 7 nm RNP filament. The assembly of the particle takes place concomitant
+with transcription and occurs in a stepwise fashion. As the particle is
+transported through the nuclear pore the ribbon straightens out, with the 5' end
+of the transcript leading. During translocation the tightly packed RNP filament
+is gradually unfolded, and on the cytoplasmic side the mRNA is immediately
+engaged in polysome formation.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ the polytene chromosomes -> tentans
+ the dipteran Chironomus -> Balbiani
+
+ These puffs -> studies
+ the structure -> transport
+ the synthesis -> transport
+
+ The Balbiani -> ring
+ the ribbon -> a tightly folded 7 nm RNP
+
+ The assembly -> place
+ the particle -> place
+
+ the particle -> a stepwise fashion
+ the nuclear pore -> a stepwise fashion
+ the ribbon -> a stepwise fashion
+ the 5 ' end -> a stepwise fashion
+ the transcript -> a stepwise fashion
+
+ the tightly packed RNP -> filament
+ the cytoplasmic side -> formation
+ the mRNA -> formation
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - transport
+linked the following anaphors:
+ the structure
+ the synthesis
+
+Antecedent - place
+linked the following anaphors:
+ The assembly
+ the particle
+
+Antecedent - a stepwise fashion
+linked the following anaphors:
+ the particle
+ the nuclear pore
+ the ribbon
+ the 5 ' end
+ the transcript
+
+Antecedent - a stepwise fashion
+linked the following anaphors:
+ the nuclear pore
+ the ribbon
+ the 5 ' end
+ the transcript
+
+Antecedent - a stepwise fashion
+linked the following anaphors:
+ the ribbon
+ the 5 ' end
+ the transcript
+
+Antecedent - a stepwise fashion
+linked the following anaphors:
+ the 5 ' end
+ the transcript
+
+Antecedent - formation
+linked the following anaphors:
+ the cytoplasmic side
+ the mRNA
+

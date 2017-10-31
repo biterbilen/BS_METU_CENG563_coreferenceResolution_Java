@@ -1,0 +1,61 @@
+(S
+  (NP
+    (NP (DT The) (JJ structural) (NN complexity))
+    (PP (IN of)
+      (NP (NNS chloroplasts))))
+  (VP (VBZ is)
+    (VP (VBN reflected)
+      (PP (IN in)
+        (NP (PRP$ their) (JJ intriguing) (JJ protein-targeting) (NN system)))))
+  (. .))
+(S
+  (S
+    (NP (RB Not) (JJ only))
+    (VP (MD must)
+      (NP (JJ nucleus-encoded) (NNS proteins))
+      (S
+        (VP (VB be)
+          (VP (VBN targeted)
+            (PP (TO to)
+              (NP (DT the) (NN chloroplast))))))))
+  (, ,)
+  (CC but)
+  (S
+    (ADVP (RB also))
+    (, ,)
+    (ADVP (RB once)
+      (PP (IN inside)
+        (NP (DT the) (NN chloroplast))))
+    (, ,)
+    (NP (DT these) (NNS polypeptides))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN directed)
+          (PP (TO to)
+            (NP (PRP$ their) (JJ final) (NN destination)))
+          (PP (IN in)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP (CD six) (JJ intrachloroplastic) (NNS compartments)))))))))
+  (. .))
+(S
+  (SBAR (IN Although)
+    (S
+      (NP
+        (NP (DT the) (NNS details))
+        (PP (IN of)
+          (NP (DT this) (NN process))))
+      (VP (VBP remain)
+        (ADJP (JJ elusive)))))
+  (, ,)
+  (NP (JJ many) (JJ recent) (NNS advances))
+  (VP (VBP have)
+    (VP (VBN improved)
+      (NP (PRP$ our) (NN vantage) (NN point))
+      (PP (IN for)
+        (S
+          (VP (VBG examining)
+            (NP (DT this) (NN system)))))))
+  (. .))
+

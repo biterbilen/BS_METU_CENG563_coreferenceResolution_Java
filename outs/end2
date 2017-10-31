@@ -1,0 +1,70 @@
+
+The Abstract:
+--------------
+Secretory proteins and integral membrane proteins travel through the secretory
+pathway to a variety of destinations. Their targets are often specified by
+signals in the amino acid sequence or signals added post-translationally. The
+KDEL sequence that retains soluble proteins in the endoplasmic reticulum and the
+mannose 6-phosphate group of lysosomal enzymes are well-characterized examples
+of targeting signals; other signals are less well understood. Given the
+complexity and importance of the intracellular trafficking pathways, it is
+perhaps not surprising that mutations that affect the trafficking of proteins
+are associated with some human genetic diseases.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ the secretory pathway -> a variety
+
+ Their -> sequence
+ the amino acid -> sequence
+
+ The KDEL sequence -> post-translationally
+ the endoplasmic reticulum -> post-translationally
+ the mannose 6-phosphate group -> post-translationally
+
+ the complexity -> importance
+ the intracellular trafficking -> importance
+ it -> importance
+ the trafficking -> importance
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - sequence
+linked the following anaphors:
+ Their
+ the amino acid
+
+Antecedent - post-translationally
+linked the following anaphors:
+ The KDEL sequence
+ the endoplasmic reticulum
+ the mannose 6-phosphate group
+
+Antecedent - post-translationally
+linked the following anaphors:
+ the endoplasmic reticulum
+ the mannose 6-phosphate group
+
+Antecedent - importance
+linked the following anaphors:
+ the complexity
+ the intracellular trafficking
+ it
+ the trafficking
+
+Antecedent - importance
+linked the following anaphors:
+ the intracellular trafficking
+ it
+ the trafficking
+
+Antecedent - importance
+linked the following anaphors:
+ it
+ the trafficking
+

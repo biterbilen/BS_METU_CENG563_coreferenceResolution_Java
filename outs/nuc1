@@ -1,0 +1,147 @@
+
+The Abstract:
+--------------
+The TP73 gene encodes a nuclear protein that has high homology with TP53. TP73
+is rarely mutated in human cancer. The presence of a 1-kb regulatory fragment
+within the first intron of TP73 was recently reported. This fragment exerts
+silencer activity on TP73 mediated by ZEB. We searched for possible mutations in
+this negative regulatory region in 45 colorectal and 43 breast cancer patients
+and in 34 healthy donors. The study was carried out using the SSCP method, and
+the allelic variants detected were sequenced. The expression of TP73 was
+analyzed by quantitative RT-PCR, and loss of heterozygosity (LOH) was assessed
+by microsatellite study. In several samples, we identified an allele variant
+that corresponds to a deletion of 73 bp in tumor tissues and normal
+counterparts, localized between -489 and -417 from the ATG start site of exon 2.
+Among the 88 tumor samples, 35 (40%) showed at least 1 allele with the cited
+deletion, versus 7 of the 34 (21%) healthy donors (P = 0.045). When we
+classified the patients according to the number of variations into homozygous or
+heterozygous groups, the significance was clearer (P = 0.03). No LOH was
+detected in the heterozygous cases. There was a positive quantitative
+correlation between the expression of TP73 and the presence of the allelic
+variant (P = 0.029). These data suggest that this allelic variant is common in
+breast and colorectal cancers and that it could alter the expression of the TP73
+gene with an additive effect.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ The TP73 -> gene
+
+
+ The presence -> a 1-kb regulatory fragment
+ the first intron -> TP73
+
+ This fragment -> activity
+
+ We -> colorectal
+ this negative regulatory region -> colorectal
+
+ The study -> method
+ the SSCP -> method
+ the allelic variants -> donors
+
+ The expression -> TP73
+
+ we -> an allele variant
+ the ATG -> start
+
+ the 88 tumor -> %
+ the cited deletion -> allele
+ the 34 -LRB- 21 % -> allele
+
+
+ we -> heterozygous
+ the patients -> variations
+ the number -> heterozygous
+ the significance -> heterozygous
+
+
+ the heterozygous cases -> groups
+
+ the expression -> TP73
+ the presence -> TP73
+ the allelic variant -> TP73
+
+
+ These data -> cancers
+ this allelic variant -> breast
+ it -> gene
+ the expression -> gene
+ the TP73 -> gene
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - gene
+linked the following anaphors:
+ The TP73
+ it
+ the expression
+ the TP73
+
+Antecedent - TP73
+linked the following anaphors:
+ the first intron
+ The expression
+ the expression
+ the presence
+ the allelic variant
+
+Antecedent - colorectal
+linked the following anaphors:
+ We
+ this negative regulatory region
+
+Antecedent - method
+linked the following anaphors:
+ The study
+ the SSCP
+
+Antecedent - TP73
+linked the following anaphors:
+ The expression
+ the expression
+ the presence
+ the allelic variant
+
+Antecedent - allele
+linked the following anaphors:
+ the cited deletion
+ the 34 -LRB- 21 %
+
+Antecedent - heterozygous
+linked the following anaphors:
+ we
+ the number
+ the significance
+
+Antecedent - heterozygous
+linked the following anaphors:
+ the number
+ the significance
+
+Antecedent - TP73
+linked the following anaphors:
+ the expression
+ the presence
+ the allelic variant
+
+Antecedent - TP73
+linked the following anaphors:
+ the presence
+ the allelic variant
+
+Antecedent - gene
+linked the following anaphors:
+ it
+ the expression
+ the TP73
+
+Antecedent - gene
+linked the following anaphors:
+ the expression
+ the TP73
+

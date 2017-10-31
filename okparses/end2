@@ -1,0 +1,92 @@
+(S
+  (NP
+    (ADVP (RB Secretory))
+    (NNS proteins)
+    (CC and)
+    (JJ integral) (NN membrane) (NNS proteins))
+  (VP (VBP travel)
+    (PP (IN through)
+      (NP (DT the) (JJ secretory) (NN pathway)))
+    (PP (TO to)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP (NNS destinations))))))
+  (. .))
+(S
+  (NP (PRP$ Their) (NNS targets))
+  (VP
+    (VP (VBP are)
+      (ADVP (RB often))
+      (VP (VBN specified)
+        (PP (IN by)
+          (NP
+            (NP (NNS signals))
+            (PP (IN in)
+              (NP (DT the) (JJ amino) (NN acid) (NN sequence)))))))
+    (CC or)
+    (VP (VBZ signals)
+      (NP (VBN added) (NN post-translationally))))
+  (. .))
+(S
+  (S
+    (NP
+      (NP (DT The) (JJ KDEL) (NN sequence))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ retains)
+            (NP
+              (NP
+                (NP (JJ soluble) (NNS proteins))
+                (PP (IN in)
+                  (NP (DT the) (JJ endoplasmic) (NN reticulum))))
+              (CC and)
+              (NP
+                (NP (DT the) (JJ mannose) (JJ 6-phosphate) (NN group))
+                (PP (IN of)
+                  (NP (JJ lysosomal) (NNS enzymes)))))))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ well-characterized) (NNS examples))
+        (PP (IN of)
+          (NP (VBG targeting) (NNS signals))))))
+  (: ;)
+  (S
+    (NP (JJ other) (NNS signals))
+    (VP (VBP are)
+      (ADVP (RBR less) (RB well))
+      (VP (VBN understood))))
+  (. .))
+(S
+  (PP (VBN Given)
+    (NP
+      (NP (DT the) (NN complexity)
+        (CC and)
+        (NN importance))
+      (PP (IN of)
+        (NP (DT the) (JJ intracellular) (NN trafficking) (NNS pathways)))))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBZ is)
+    (ADVP (RB perhaps))
+    (RB not)
+    (ADJP (JJ surprising))
+    (SBAR (IN that)
+      (S
+        (NP
+          (NP (NNS mutations))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP affect)
+                (NP
+                  (NP (DT the) (NN trafficking))
+                  (PP (IN of)
+                    (NP (NNS proteins))))))))
+        (VP (VBP are)
+          (VP (VBN associated)
+            (PP (IN with)
+              (NP (DT some) (JJ human) (JJ genetic) (NNS diseases))))))))
+  (. .))
+

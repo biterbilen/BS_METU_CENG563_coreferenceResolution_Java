@@ -1,0 +1,50 @@
+
+The Abstract:
+--------------
+The mechanism of assembly of lipoprotein particles in the lumen of the
+endoplasmic reticulum is an important but poorly understood biological problem.
+A knowledge of this process is of great practical importance because possession
+of elevated levels of lipoproteins is one of the major risk factors for the
+development of atherosclerosis. This review describes a major advance in the
+delineation of the mechanisms involved in the assembly and secretion of
+apolipoprotein-B-containing lipoproteins: the demonstration of a requirement for
+microsomal triglyceride transfer protein.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ The mechanism -> assembly
+ the lumen -> an important but poorly understood biological problem
+ the endoplasmic reticulum -> an important but poorly understood biological problem
+
+ this process -> importance
+ the major risk -> possession
+ the development -> possession
+
+ This review -> a major advance
+ the delineation -> secretion
+ the mechanisms -> lipoproteins
+ the assembly -> secretion
+ the demonstration -> a requirement
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - an important but poorly understood biological problem
+linked the following anaphors:
+ the lumen
+ the endoplasmic reticulum
+
+Antecedent - possession
+linked the following anaphors:
+ the major risk
+ the development
+
+Antecedent - secretion
+linked the following anaphors:
+ the delineation
+ the assembly
+

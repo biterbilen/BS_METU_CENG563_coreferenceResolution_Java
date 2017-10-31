@@ -1,0 +1,47 @@
+
+The Abstract:
+--------------
+The structural complexity of chloroplasts is reflected in their intriguing
+protein-targeting system. Not only must nucleus-encoded proteins be targeted to
+the chloroplast, but also, once inside the chloroplast, these polypeptides must
+be directed to their final destination in one of six intrachloroplastic
+compartments. Although the details of this process remain elusive, many recent
+advances have improved our vantage point for examining this system.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ The structural complexity -> system
+ their -> chloroplasts
+
+ the chloroplast -> destination
+ the chloroplast -> destination
+ these polypeptides -> compartments
+ their -> compartments
+
+ the details -> advances
+ this process -> vantage
+ our -> vantage
+ this system -> point
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - destination
+linked the following anaphors:
+ the chloroplast
+ the chloroplast
+
+Antecedent - compartments
+linked the following anaphors:
+ these polypeptides
+ their
+
+Antecedent - vantage
+linked the following anaphors:
+ this process
+ our
+

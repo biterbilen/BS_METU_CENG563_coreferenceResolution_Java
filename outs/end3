@@ -1,0 +1,73 @@
+
+The Abstract:
+--------------
+Most cells process proteins into short peptides that are displayed on the cell
+surface bound to class I or class II proteins encoded by the major
+histocompatibility complex (MHC). These protein-peptide complexes can then be
+recognized by the circulating lymphocytes of the immune system. Several genes
+found recently in the MHC encode proteins with possible roles in the supply of
+peptides to class I molecules. The results imply that the peptides are produced
+in the cytoplasm by proteasomes and are translocated into the endoplasmic
+reticulum by 'peptide transporters' related to the multidrug resistance
+proteins. While there is little biochemical evidence to validate these ideas,
+Robert DeMars and Thomas Spies discuss here the arguments supporting this view.
+New data indicate that there may also be factors for class II peptide-processing
+hidden in the MHC.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ the cell -> surface
+ the major histocompatibility -> complex
+
+ These protein-peptide complexes -> proteins
+ the circulating lymphocytes -> proteins
+ the immune system -> MHC
+
+ the MHC -> encode
+ the supply -> class
+
+ The results -> proteasomes
+ the peptides -> proteasomes
+ the cytoplasm -> I
+ the endoplasmic reticulum -> I
+ the multidrug resistance -> I
+
+ these ideas -> transporters
+ the arguments -> transporters
+ this view -> Spies
+
+ the MHC -> II
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - proteins
+linked the following anaphors:
+ These protein-peptide complexes
+ the circulating lymphocytes
+
+Antecedent - proteasomes
+linked the following anaphors:
+ The results
+ the peptides
+
+Antecedent - I
+linked the following anaphors:
+ the cytoplasm
+ the endoplasmic reticulum
+ the multidrug resistance
+
+Antecedent - I
+linked the following anaphors:
+ the endoplasmic reticulum
+ the multidrug resistance
+
+Antecedent - transporters
+linked the following anaphors:
+ these ideas
+ the arguments
+

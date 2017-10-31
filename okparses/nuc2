@@ -1,0 +1,210 @@
+(S
+  (NP
+    (NP (JJ Regulated) (NN intramembrane) (NNS proteolysis))
+    (PRN (-LRB- -LRB-) (NNP RIP) (-RRB- -RRB-)))
+  (VP (VBZ is)
+    (NP
+      (NP (DT an) (VBG emerging) (NN paradigm))
+      (PP (IN in)
+        (NP (NN signal) (NN transduction)))))
+  (. .))
+(S
+  (NP (NNP RIP))
+  (VP (VBZ is)
+    (VP (VBN mediated)
+      (PP (IN by)
+        (NP
+          (NP
+            (NP (JJ intramembrane-cleaving) (NNS proteases))
+            (PRN (-LRB- -LRB-)
+              (NP (NNP I-CliPs))
+              (-RRB- -RRB-)))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP liberate)
+                (NP
+                  (ADJP (RB biologically) (JJ active))
+                  (JJ nuclear)
+                  (CC or)
+                  (JJ secreted) (NNS domains))
+                (PP (IN from)
+                  (NP (PRP$ their) (JJ membrane-tethered) (NN precursor) (NNS proteins))))))))))
+  (. .))
+(S
+  (NP (DT The) (NN yeast) (NNS Pcp1p\/Rbd1p) (NN protein))
+  (VP (VBZ is)
+    (NP
+      (NP (DT a) (JJ Rhomboid-like) (NN I-CliP))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ regulates)
+            (NP (JJ mitochondrial) (JJ membrane) (NN remodeling)
+              (CC and)
+              (NN fusion))
+            (PP (IN through)
+              (NP
+                (NP (NN cleavage))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS Mgm1p))
+                    (, ,)
+                    (NP
+                      (NP (DT a) (NN regulator))
+                      (PP (IN of)
+                        (NP (DT these) (JJ essential) (NNS activities)))))))))))))
+  (. .))
+(S
+  (SBAR (IN Although)
+    (S
+      (NP (DT this) (JJ ancient) (NN function))
+      (VP (VBZ is)
+        (VP (VBN conserved)
+          (PP (IN in)
+            (NP
+              (NP (NNP PARL))
+              (, ,)
+              (NP
+                (NP (DT the) (JJ mammalian) (NN ortholog))
+                (PP (IN of)
+                  (NP (NNS Pcp1p\/Rbd1p))))))))))
+  (, ,)
+  (NP (DT the) (CD two) (NNS proteins))
+  (VP (VBP show)
+    (NP (DT a) (JJ strong) (NN divergence))
+    (PP (IN at)
+      (NP (PRP$ their) (NNS N-terminus))))
+  (. .))
+(S
+  (ADVP (RB However))
+  (, ,)
+  (NP
+    (NP (DT the) (NNP N-terminus))
+    (PP (IN of)
+      (NP (NNP PARL))))
+  (VP (VBZ is)
+    (ADVP (RB significantly))
+    (VP (VBN conserved)
+      (PP (IN among)
+        (NP (NNS vertebrates)))
+      (, ,)
+      (ADVP (RB particularly))
+      (PP (IN among)
+        (NP (NNS mammals)))
+      (, ,)
+      (S
+        (VP (VBG suggesting)
+          (SBAR (IN that)
+            (S
+              (NP (DT this) (NN domain))
+              (VP (VBD evolved)
+                (NP (DT a)
+                  (ADJP (JJ distinct) (, ,) (RB still) (JJ unknown))
+                  (NN function)))))))))
+  (. .))
+(S
+  (ADVP (RB Here))
+  (, ,)
+  (NP (PRP we))
+  (VP (VBP show)
+    (SBAR (IN that)
+      (S
+        (NP
+          (NP (DT the) (JJ cytosolic) (JJ N-terminal) (NN domain))
+          (PP (IN of)
+            (NP (NNP PARL))))
+        (VP (VBZ is)
+          (VP (VBN cleaved)
+            (PP (IN at)
+              (NP
+                (NP (NNS positions) (CD 52-53))
+                (PRN (-LRB- -LRB-)
+                  (ADJP (JJ alpha-site))
+                  (-RRB- -RRB-))
+                (CC and)
+                (NP (CD 77-78))
+                (PRN (-LRB- -LRB-)
+                  (ADJP (JJ beta-site))
+                  (-RRB- -RRB-)))))))))
+  (. .))
+(S
+  (SBAR (IN While)
+    (S
+      (NP (NN alpha-cleavage))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ constitutive)))
+        (CC and)
+        (VP (VBZ removes)
+          (NP (DT the) (JJ mitochondrial) (VBG targeting) (NN sequence))))))
+  (, ,)
+  (NP (NN beta-cleavage))
+  (VP (VBZ appears)
+    (S
+      (VP (TO to)
+        (VP (VB be)
+          (ADJP (RB developmentally) (JJ controlled)
+            (CC and)
+            (JJ dependent))
+          (PP (IN on)
+            (NP
+              (NP (JJ PARL) (NN I-CliP) (NN activity))
+              (PP (IN in)
+                (NP (NNS trans)))))))))
+  (. .))
+(S
+  (NP
+    (NP (DT The) (NN beta-cleavage))
+    (PP (IN of)
+      (NP (NNP PARL))))
+  (VP (VBZ liberates)
+    (NP
+      (NP (NNP P-beta))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ nuclear-targeted) (NN peptide))
+        (SBAR
+          (WHNP (WP$ whose) (NNS sequence))
+          (S
+            (VP (VBZ is)
+              (VP (VBN conserved)
+                (ADVP (RB only))
+                (PP (IN in)
+                  (NP (NNS mammals))))))))))
+  (. .))
+(S
+  (ADVP (RB Thus))
+  (, ,)
+  (PP (IN in)
+    (NP
+      (NP (NN addition))
+      (PP (TO to)
+        (NP
+          (NP (PRP$ its)
+            (ADJP (RB evolutionarily) (JJ conserved))
+            (NN function))
+          (PP (IN in)
+            (S
+              (VP (VBG regulating)
+                (NP (JJ mitochondrial) (NNS dynamics)))))))))
+  (, ,)
+  (NP (NNP PARL))
+  (VP (MD might)
+    (VP (VB mediate)
+      (NP
+        (NP (DT a) (JJ mammalian-specific) (, ,) (JJ developmentally) (JJ regulated) (NN mitochondria-to-nuclei))
+        (VP (VBG signaling)
+          (PP (IN through)
+            (NP
+              (NP
+                (NP (JJ regulated) (NNS proteolysis))
+                (PP (IN of)
+                  (NP (PRP$ its) (NNS N-terminus))))
+              (CC and)
+              (NP
+                (NP (NN release))
+                (PP (IN of)
+                  (NP (DT the) (JJ P-beta) (NN peptide))))))))))
+  (. .))

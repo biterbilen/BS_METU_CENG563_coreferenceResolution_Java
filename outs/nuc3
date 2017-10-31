@@ -1,0 +1,120 @@
+
+The Abstract:
+--------------
+Leukocyte elastase (LE) degrades connective tissue, is involved in the
+inflammatory process and implicated in cyclic and congenital neutropenia. The
+human LE gene is within a serine proteinase locus on chromosome 19 pter13.3. Our
+observations demonstrate that LE gene expression is regulated by PU.1, a
+cytidine-rich and a Myb binding site. The LE promoter has two cytidine-rich
+sites at -158 and -185. The -158 is the active site and it is closest to the
+PU.1 site. Proximity is essential to activity since separation of the -158 and
+PU.1 sites by a 20-base pair oligonucleotide reduced promoter activity by 50%.
+This suggests physical interaction between the transcription proteins binding to
+the PU.1 and -158 sites. The nuclear protein that binds the -158 site is present
+in B and T lymphocytes and an erythroleukemia cell line in addition to being
+abundant in the promyelocytic stage of neutrophil maturation when the LE gene is
+expressed. The protein binding to the -158 site is absent or expressed at low
+levels in non-hematopoietic cell lines. We have identified the transcription
+factors essential for human LE gene expression. Comparison with the mouse LE
+gene shows similarities and differences.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ the inflammatory process -> neutropenia
+
+ The human LE -> gene
+
+
+ Our -> LE
+
+
+ The LE -> promoter
+
+ The -158 is the active site -> site
+ it -> site
+ the PU -> site
+
+
+ the -158 and PU -> separation
+
+
+ This suggests physical interaction -> %
+ the transcription -> %
+ the PU -> %
+
+
+ The nuclear protein -> B
+ the -158 site -> B
+ the promyelocytic stage -> maturation
+ the LE -> gene
+
+ The protein -> cell
+ the -158 site -> cell
+
+ We -> LE
+ the transcription -> LE
+
+ the mouse -> LE
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - gene
+linked the following anaphors:
+ The human LE
+ the LE
+
+Antecedent - LE
+linked the following anaphors:
+ Our
+ We
+ the transcription
+ the mouse
+
+Antecedent - site
+linked the following anaphors:
+ The -158 is the active site
+ it
+ the PU
+
+Antecedent - site
+linked the following anaphors:
+ it
+ the PU
+
+Antecedent - %
+linked the following anaphors:
+ This suggests physical interaction
+ the transcription
+ the PU
+
+Antecedent - %
+linked the following anaphors:
+ the transcription
+ the PU
+
+Antecedent - B
+linked the following anaphors:
+ The nuclear protein
+ the -158 site
+
+Antecedent - cell
+linked the following anaphors:
+ The protein
+ the -158 site
+
+Antecedent - LE
+linked the following anaphors:
+ We
+ the transcription
+ the mouse
+
+Antecedent - LE
+linked the following anaphors:
+ the transcription
+ the mouse
+

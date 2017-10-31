@@ -1,0 +1,45 @@
+(S
+  (NP
+    (NP (DT The) (JJ mitogen-activated) (NN protein) (NN kinase)
+      (PRN (-LRB- -LRB-)
+        (NP (NNP MAP) (NN kinase))
+        (-RRB- -RRB-))
+      (NN family))
+    (PP (IN of)
+      (NP (JJ cytoplasmic) (JJ serine\/threonine) (NN protein) (NNS kinases))))
+  (VP (VBZ is)
+    (VP (VBN activated)
+      (PP (IN by)
+        (NP
+          (NP (DT a) (JJ wide) (NN range))
+          (PP (IN of)
+            (NP (NN extracellular) (NNS stimuli)))))))
+  (. .))
+(S
+  (PP (IN In)
+    (NP (DT this) (NN review)))
+  (NP (PRP we))
+  (VP (VBP focus)
+    (PP (IN on)
+      (NP (DT the) (JJ accumulating) (NN evidence)))
+    (SBAR (IN that)
+      (S
+        (NP
+          (NP (NNS proteins))
+          (VP (VBN encoded)
+            (PP (IN by)
+              (NP (NNS proto-oncogenes)
+                (CC and)
+                (NNS oncogenes)))))
+        (VP
+          (VP (VBP are) (RB either)
+            (VP (VBN involved)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN regulation))
+                  (PP (IN of)
+                    (NP (DT the) (NNP MAP) (NN kinase) (NN pathway)))))))
+          (CC or)
+          (VP (VBP are)
+            (NP (PRP$ its) (NNS targets)))))))
+  (. .))

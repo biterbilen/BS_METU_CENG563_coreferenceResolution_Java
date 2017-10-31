@@ -1,0 +1,37 @@
+
+The Abstract:
+--------------
+Nuclear-encoded chloroplast proteins are imported from the cytosol into the
+chloroplast stroma by a common translocation machinery. Several components of
+the import apparatus, including GTP-binding proteins and Hsp70 proteins, have
+recently been identified and characterized. This review discusses the role of
+these proteins in chloroplast protein import.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+ the cytosol -> a common translocation
+ the chloroplast stroma -> a common translocation
+
+ the import -> apparatus
+
+ This review -> protein
+ the role -> protein
+ these proteins -> proteins
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - a common translocation
+linked the following anaphors:
+ the cytosol
+ the chloroplast stroma
+
+Antecedent - protein
+linked the following anaphors:
+ This review
+ the role
+

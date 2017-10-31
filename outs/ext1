@@ -1,0 +1,66 @@
+
+The Abstract:
+--------------
+Alzheimers disease is a progressive neurodegenerative disorder characterized by
+extracellular deposition of -amyloid (A) peptide containing neuritic plaques. A
+peptides are proteolytically derived from the membrane bound amyloid precursor
+protein (APP). Although the function of APP is not entirely clear, previous
+studies demonstrate that neuronal APP co-localizes with 1 integrin receptors at
+sites of focal adhesion suggesting that APP is involved in mediating neuronal
+process adhesion. Integrin-dependent adhesion is also a well-characterized
+component of immune cell proinflammatory activation. Using primary mouse
+microglia and the human monocytic cell line, THP-1, we have begun investigating
+the role of APP in integrin-dependent activation. Co-immunoprecipitation studies
+demonstrate that APP is recruited into a multi-receptor signaling complex during
+1 integrin-mediated adhesion of monocytes. Stimulation induces a subsequent,
+specific recruitment of tyrosine phosphorylated proteins to APP including Lyn
+and Syk. Antibody cross-linking of cell surface APP leads to a similar response
+characterized by activation and recruitment of tyrosine kinases to APP as well
+as subsequent activation of MAP kinases and increased proinflammatory protein
+levels. These data demonstrate that APP can act as a proinflammatory receptor in
+monocytic lineage cells and provide insight into the contribution of this
+protein to the inflammatory conditions described in Alzheimers disease.
+
+
+The Anaphora in the Abstract in Appearance Order
+------------------------------------------------
+anaphor      ->      antecedent
+-------------------------------
+
+
+ the membrane -> amyloid
+
+ the function -> APP
+
+
+ the human monocytic cell -> line
+ we -> APP
+ the role -> APP
+
+
+
+
+ These data -> levels
+ the contribution -> Alzheimers
+ this protein -> Alzheimers
+ the inflammatory conditions -> cells
+
+The Coreference Chains:
+-----------------------
+
+Antecedent - APP
+linked the following anaphors:
+ the function
+ we
+ the role
+
+Antecedent - APP
+linked the following anaphors:
+ we
+ the role
+
+Antecedent - Alzheimers
+linked the following anaphors:
+ the contribution
+ this protein
+

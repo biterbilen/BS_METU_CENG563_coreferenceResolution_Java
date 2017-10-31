@@ -1,0 +1,78 @@
+(S
+  (NP
+    (NP (DT The) (NN mechanism))
+    (PP (IN of)
+      (NP
+        (NP (NN assembly))
+        (PP (IN of)
+          (NP
+            (NP (NN lipoprotein) (NNS particles))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN lumen))
+                (PP (IN of)
+                  (NP (DT the) (JJ endoplasmic) (NN reticulum))))))))))
+  (VP (VBZ is)
+    (NP (DT an)
+      (ADJP
+        (ADJP (JJ important))
+        (CC but)
+        (ADJP (RB poorly) (JJ understood)))
+      (JJ biological) (NN problem)))
+  (. .))
+(S
+  (NP
+    (NP (DT A) (NN knowledge))
+    (PP (IN of)
+      (NP (DT this) (NN process))))
+  (VP (VBZ is)
+    (PP (IN of)
+      (NP (JJ great) (JJ practical) (NN importance)))
+    (SBAR (IN because)
+      (S
+        (NP
+          (NP (NN possession))
+          (PP (IN of)
+            (NP
+              (NP (JJ elevated) (NNS levels))
+              (PP (IN of)
+                (NP (NNS lipoproteins))))))
+        (VP (VBZ is)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ major) (NN risk) (NNS factors))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN development))
+                    (PP (IN of)
+                      (NP (NNS atherosclerosis))))))))))))
+  (. .))
+(S
+  (NP (DT This) (NN review))
+  (VP (VBZ describes)
+    (NP (DT a) (JJ major) (NN advance))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN delineation))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS mechanisms))
+            (VP (VBN involved)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN assembly)
+                    (CC and)
+                    (NN secretion))
+                  (PP (IN of)
+                    (NP (JJ apolipoprotein-B-containing) (NNS lipoproteins))))))))))
+    (: :)
+    (NP
+      (NP (DT the) (NN demonstration))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN requirement))
+          (PP (IN for)
+            (NP (JJ microsomal) (NN triglyceride) (NN transfer) (NN protein)))))))
+  (. .))

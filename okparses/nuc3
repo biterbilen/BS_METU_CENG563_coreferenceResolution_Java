@@ -1,0 +1,182 @@
+(S
+  (NP
+    (NP (JJ Leukocyte) (NN elastase))
+    (PRN (-LRB- -LRB-) (NNP LE) (-RRB- -RRB-)))
+  (VP
+    (VP (VBZ degrades)
+      (NP (JJ connective) (NN tissue)))
+    (, ,)
+    (VP (VBZ is)
+      (VP (VBN involved)
+        (PP (IN in)
+          (NP (DT the) (JJ inflammatory) (NN process)))))
+    (CC and)
+    (VP (VBN implicated)
+      (PP (IN in)
+        (NP
+          (ADJP (JJ cyclic)
+            (CC and)
+            (JJ congenital))
+          (NN neutropenia)))))
+  (. .))
+(S
+  (NP (DT The) (JJ human) (NNP LE) (NN gene))
+  (VP (VBZ is)
+    (PP (IN within)
+      (NP
+        (NP (DT a) (JJ serine) (JJ proteinase) (NNS locus))
+        (PP (IN on)
+          (NP (NN chromosome) (CD 19) (NN pter13) (NN .3))))))
+  (. .))
+(S
+  (NP (PRP$ Our) (NNS observations))
+  (VP (VBP demonstrate)
+    (SBAR (IN that)
+      (S
+        (NP (NNP LE) (NN gene) (NN expression))
+        (VP (VBZ is)
+          (VP (VBN regulated)
+            (PP (IN by)
+              (NP
+                (NP ($ PU) (CD .1))
+                (, ,)
+                (NP
+                  (NP (DT a) (NN cytidine-rich))
+                  (CC and)
+                  (NP (DT a) (NNP Myb) (VBG binding) (NN site))))))))))
+  (. .))
+(S
+  (NP (DT The) (NNP LE) (NN promoter))
+  (VP (VBZ has)
+    (NP
+      (NP (CD two) (JJ cytidine-rich) (NNS sites))
+      (PP (IN at)
+        (NP (CD -158)
+          (CC and)
+          (CD -185)))))
+  (. .))
+(S
+  (S
+    (NP (DT The) (CD -158))
+    (VP (VBZ is)
+      (NP (DT the) (JJ active) (NN site))))
+  (CC and)
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (JJS closest))
+        (PP (TO to)
+          (NP (DT the) (NNP PU) (CD .1) (NN site))))))
+  (. .))
+(S
+  (NP (NNP Proximity))
+  (VP (VBZ is)
+    (ADJP (JJ essential)
+      (PP (TO to)
+        (NP (NN activity))))
+    (SBAR (IN since)
+      (S
+        (NP
+          (NP (NN separation))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (CD -158)
+                (CC and)
+                (NNP PU) (CD .1) (NNS sites))
+              (PP (IN by)
+                (NP (DT a) (JJ 20-base) (NN pair) (NN oligonucleotide))))))
+        (VP (VBD reduced)
+          (NP (NN promoter) (NN activity))
+          (PP (IN by)
+            (NP (CD 50) (NN %)))))))
+  (. .))
+(S
+  (NP (DT This))
+  (VP (VBZ suggests)
+    (NP
+      (NP (JJ physical) (NN interaction))
+      (PP (IN between)
+        (NP
+          (NP (DT the) (NN transcription) (VBZ proteins))
+          (ADJP (JJ binding)
+            (PP (TO to)
+              (NP (DT the) (NNP PU)))
+            (NP (CD .1)
+              (CC and)
+              (CD -158)))
+          (NNS sites)))))
+  (. .))
+(S
+  (NP
+    (NP (DT The) (JJ nuclear) (NN protein))
+    (SBAR
+      (WHNP (WDT that))
+      (S
+        (VP (VBZ binds)
+          (NP (DT the) (JJ -158) (NN site))))))
+  (VP (VBZ is)
+    (ADJP (JJ present)
+      (PP (IN in)
+        (NP
+          (NP (NNP B)
+            (CC and)
+            (NNP T) (NNS lymphocytes))
+          (CC and)
+          (NP
+            (NP (DT an) (JJ erythroleukemia) (NN cell) (NN line))
+            (PP (IN in)
+              (NP (NN addition))))))
+      (PP (TO to)
+        (S
+          (VP (VBG being)
+            (ADJP (JJ abundant)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ promyelocytic) (NN stage))
+                  (PP (IN of)
+                    (NP (JJ neutrophil) (NN maturation)))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT the) (NNP LE) (NN gene))
+                      (VP (VBZ is)
+                        (VP (VBN expressed)))))))))))))
+  (. .))
+(S
+  (NP
+    (NP (DT The) (NN protein))
+    (ADJP (JJ binding)
+      (PP (TO to)
+        (NP (DT the) (CD -158) (NN site)))))
+  (VP (VBZ is)
+    (UCP
+      (ADJP (JJ absent))
+      (CC or)
+      (VP (VBN expressed)
+        (PP (IN at)
+          (NP
+            (NP (JJ low) (NNS levels))
+            (PP (IN in)
+              (NP (JJ non-hematopoietic) (NN cell) (NNS lines))))))))
+  (. .))
+(S
+  (NP (PRP We))
+  (VP (VBP have)
+    (VP (VBN identified)
+      (S
+        (NP (DT the) (NN transcription) (NNS factors))
+        (ADJP (JJ essential)
+          (PP (IN for)
+            (NP (JJ human) (NNP LE) (NN gene) (NN expression)))))))
+  (. .))
+(S
+  (NP
+    (NP (NNP Comparison))
+    (PP (IN with)
+      (NP (DT the) (NN mouse) (NN LE) (NN gene))))
+  (VP (VBZ shows)
+    (NP (NNS similarities)
+      (CC and)
+      (NNS differences)))
+  (. .))

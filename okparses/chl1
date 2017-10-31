@@ -1,0 +1,41 @@
+(S
+  (NP (JJ Nuclear-encoded) (NN chloroplast) (NNS proteins))
+  (VP (VBP are)
+    (VP (VBN imported)
+      (PP (IN from)
+        (NP (DT the) (NN cytosol)))
+      (PP (IN into)
+        (NP (DT the) (JJ chloroplast) (NN stroma)))
+      (PP (IN by)
+        (NP (DT a) (JJ common) (NN translocation) (NN machinery)))))
+  (. .))
+(S
+  (NP
+    (NP (JJ Several) (NNS components))
+    (PP (IN of)
+      (NP (DT the) (NN import) (NN apparatus)))
+    (, ,)
+    (PP (VBG including)
+      (NP
+        (NP (JJ GTP-binding) (NNS proteins))
+        (CC and)
+        (NP (JJ Hsp70) (NNS proteins))))
+    (, ,))
+  (VP (VBP have)
+    (ADVP (RB recently))
+    (VP (VBN been)
+      (VP (VBN identified)
+        (CC and)
+        (VBN characterized))))
+  (. .))
+(S
+  (NP (DT This) (NN review))
+  (VP (VBZ discusses)
+    (NP
+      (NP (DT the) (NN role))
+      (PP (IN of)
+        (NP
+          (NP (DT these) (NNS proteins))
+          (PP (IN in)
+            (NP (JJ chloroplast) (NN protein) (NN import)))))))
+  (. .))
